@@ -6,7 +6,7 @@
 
 /* contains all the body*/
 .container {
-  width: 80%;
+  width: 72%;
   margin: 20px auto;
 }
 
@@ -54,13 +54,11 @@ aside, section {
 }
 
 aside {
-  width: 21%;
+  width: 20%;
 }
 
 section {
   width: 56%;
-}
-
-section, .side-one{
-  margin-right: 1%;
+  margin-right: 2%;
+  margin-left: 2%;
 }
