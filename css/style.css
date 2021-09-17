@@ -46,7 +46,7 @@ footer {
 }
 
 .left, .center, .right {
-  height: 500px;
+  min-height: 500px;
   margin: 18px 0;
   background-color: rgb(171,207,231); 
   float: left;
